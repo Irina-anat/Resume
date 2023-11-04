@@ -38,6 +38,10 @@ p {
     margin: 0;
 }
 
+ol,ul{
+    padding-left: 20px;
+}
+
 img {
     display: block;
     max-width: 100%;
